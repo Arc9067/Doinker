@@ -1,5 +1,5 @@
 import React from "react";
-import Logo2 from "../assets/logo.png";
+import Logo2 from "../assets/footer.png";
 
 const Footer = () => {
   return (
@@ -8,18 +8,10 @@ const Footer = () => {
         <img
           src={Logo2}
           alt=""
-          className="w-20"
+          className="md:w-6/12"
           data-aos="flip-left"
           data-aod-duration="600"
         />
-        <div
-          data-aos="fade-up"
-          className="text-white text-2xl font-normal max-w-xl"
-        >
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque officia
-          obcaecati enim voluptatibus excepturi eius, sit non. Dolore, quas
-          minima.
-        </div>
 
         <div className="flex items-center gap-6">
           <a href="https://t.me/DoinkerETH" target="_blank" className="">
