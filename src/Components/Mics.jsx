@@ -17,8 +17,8 @@ const Mics = () => {
             className="text-center text-white text-2xl font-normal max-w-2xl flex flex-col justify-center items-center gap-8"
           >
             <li className="text-2xl">1/1 tax</li>
-            <li className="text-2xl">100m supply </li>
-            <li className="text-2xl">2% max txnx</li>
+            <li className="text-2xl">100m Supply </li>
+            <li className="text-2xl">2% max Txn</li>
           </ul>
           <a
             data-aos="fade-down"
