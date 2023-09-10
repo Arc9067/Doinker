@@ -6,11 +6,11 @@ const Mics = () => {
       <div className="container relative flex flex-col gap-9 justify-center items-center">
         <article className="flex items-center justify-center flex-col text-center gap-5">
           <h1
-            className="text-white text-7xl font-special"
+            className="text-white text-4xl lg:text-5xl font-special"
             data-aos="fade-left"
             data-aos-duration="1000"
           >
-            Mics
+            Tokenomics
           </h1>
           <ul
             data-aos="fade-up"
