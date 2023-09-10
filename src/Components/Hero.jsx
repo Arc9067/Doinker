@@ -15,7 +15,13 @@ const Hero = () => {
         >
           Doinker
         </h1>
-        <img src={Logo} alt="" data-aos="fade-left" data-aos-duration="1100" />
+        <img
+          src={Logo}
+          alt=""
+          data-aos="fade-left"
+          data-aos-duration="1100"
+          className="md:w-8/12"
+        />
       </div>
     </section>
   );

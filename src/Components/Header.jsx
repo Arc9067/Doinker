@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="py-3 w-full bg-[#05165E] absolute">
+    <header className="py-3 w-full bg-[#1a319a] absolute">
       <nav className="container flex items-center gap-14 justify-between lg:justify-start">
         <a
           href=""
