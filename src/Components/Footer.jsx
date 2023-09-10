@@ -40,7 +40,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="" target="_blank" className="">
+          <a href="https://twitter.com/DoinkerETH" target="_blank" className="">
             <svg
               width="40"
               height="29"
